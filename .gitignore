@@ -1,1 +1,4 @@
 *.pdf
+main*
+!main.tex
+!main.md
